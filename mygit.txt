@@ -3,4 +3,4 @@ git is a good excellent tool.
 git is a useful tool.
 it's wonderful to use git.
 git has a mutable index called stage.
-creating a new branch is easy.
+creating a new branch is easy & quick.
