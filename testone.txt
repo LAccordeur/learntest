@@ -1,2 +1,4 @@
 itl's a test of branch.
-creating a branch is easy & quick.
+creating a branch is easy and quick.
+
+
